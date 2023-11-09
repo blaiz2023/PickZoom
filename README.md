@@ -10,3 +10,5 @@ Features
 * Standard Image formats: PNG, JPG, GIF and BMP
 * Portable
 * Options Window - Easily change program color, font and settings
+
+![Pick Zoom Screen Shot](pickzoom-screenshot.jpg?raw=true)
