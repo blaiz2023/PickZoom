@@ -1,7 +1,9 @@
-# PickZoom
+# Pick Zoom
 Zoom an image up/down by percentage or pixels, quickly and with ease. WYSIWYG view. Realtime zoomed image dimensions and size.
 
-Features
+<img src="images/pickzoom-screenshot.jpg">
+
+# Features
 * One touch buttons for fast zoom change
 * Zoom by: Percentage, Pixels, Set Percentage or Set Pixels
 * Copy / Paste / Paste to Fit
@@ -11,4 +13,16 @@ Features
 * Portable
 * Options Window - Easily change program color, font and settings
 
-![Pick Zoom Screen Shot](pickzoom-screenshot.jpg?raw=true)
+# Download
+<a href="src/pickzoom.exe">pickzoom.exe</a> - windows all
+
+# Images
+<img src="images/pickzoom-screenshot2.jpg">
+
+<img src="images/pickzoom-screenshot3.jpg">
+
+<img src="images/pickzoom-screenshot4.jpg">
+
+<img src="images/pickzoom-screenshot5.jpg">
+
+<img src="images/pickzoom-screenshot6.jpg">
