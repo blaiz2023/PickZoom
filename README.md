@@ -22,7 +22,3 @@ Zoom an image up/down by percentage or pixels, quickly and with ease. WYSIWYG vi
 <img src="images/pickzoom-screenshot3.jpg">
 
 <img src="images/pickzoom-screenshot4.jpg">
-
-<img src="images/pickzoom-screenshot5.jpg">
-
-<img src="images/pickzoom-screenshot6.jpg">
