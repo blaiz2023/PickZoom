@@ -14,7 +14,7 @@ Zoom an image up/down by percentage or pixels, quickly and with ease. WYSIWYG vi
 * Options Window - Easily change program color, font and settings
 
 # Download
-<a href="src/pickzoom.exe">pickzoom.exe</a> - windows all
+Download <a href="src/pickzoom.exe">pickzoom.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
 
 # Images
 <img src="images/pickzoom-screenshot2.jpg">
